@@ -1,6 +1,6 @@
 # Live2D API
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+Live2D 看板娘插件 (https://blog.funsy.cn/) 上使用的后端 API
 
 ### 特性
 
@@ -172,5 +172,6 @@ model_list.json
 > (>▽<) 都看到这了，点个 Star 吧 ~
 
 **API 内所有模型 版权均属于原作者，仅供研究学习，不得用于商业用途**  
+**从(https://github.com/Akilarlxh/live2d_api/issues)借鉴**
 
 MIT © FGHRSH
